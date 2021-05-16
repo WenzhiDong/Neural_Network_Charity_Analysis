@@ -27,7 +27,7 @@ ASK_AMT — Funding amount requested
 
 IS_SUCCESSFUL — Was the money used effectively
 
-
+## Result
 With my knowledge of machine learning and neural networks, I’ll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ### Data Preprocessing
