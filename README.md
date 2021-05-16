@@ -57,10 +57,12 @@ How many neurons, layers, and activation functions did you select for your neura
 
 ### Were you able to achieve the target model performance?
 
-![3](Resource/result1.png)
+ - The performance is around 0.5, which is not very good.
+ ![3](Resource/result1.png)
+ - The performance is still around 0.5 after optimization.
 ![4](Resource/result2.png)
 
- - The performance is around 0.5, which is not very good.
+
 
 ### What steps did you take to try and increase model performance?
 
